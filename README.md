@@ -61,7 +61,7 @@ Synthetic retail transaction dataset used for Market Basket Analysis.
 ## Interactive Dashboard
 
 Streamlit dashboard:
-[(https://streamtest-j49ddhp57de2mwsmnhkwfy.streamlit.app/)]
+[View Interactive Dashboard](https://streamtest-j49ddhp57de2mwsmnhkwfy.streamlit.app/)
 
 ## Author
 
